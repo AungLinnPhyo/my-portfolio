@@ -77,7 +77,7 @@ export default function Home() {
             <h2 className="text-3xl font-extrabold text-white tracking-tight">
               Featured Projects
             </h2>
-            <div className="h-[1px] flex-1 bg-linear-to-r from-slate-800 to-transparent ml-6 hidden sm:block"></div>
+            <div className="h-px flex-1 bg-linear-to-r from-slate-800 to-transparent ml-6 hidden sm:block"></div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
